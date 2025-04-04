@@ -1,3 +1,5 @@
+Based on [this](https://github.com/godatadriven/azure_function_python_remote_build) / [docs](https://xebia.com/blog/deploying-a-python-azure-function-as-zip/)
+
 # Python Azure Function Remote Build
 Example repository for [this blogpost](https://godatadriven.com/blog/deploying-a-python-azure-function-as-zip/) to show how a relatively minimal Python application can be provisioned with Terraform in Azure, and 
 then built and deployed remotely with a .zip file as Azure function app.
